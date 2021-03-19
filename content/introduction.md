@@ -10,7 +10,7 @@ Some introduction text. Lists out all the headings from h1 to h6. Easy to custom
 This is test information 
 
 ## Heading H2
-Heading 2 text
+Still testing
 
 ### Heading H3
 Heading 3 text
