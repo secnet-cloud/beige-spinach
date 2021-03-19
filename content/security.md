@@ -7,13 +7,13 @@ metaDescription: "This is the meta description"
 Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
 
 # Heading H1
-This is test information 
+Heading 1 text
 
 ## Heading H2
-Still testing
+Heading 2 text
 
 ### Heading H3
-Another test
+Heading 3 text
 
 #### Heading H4
 Heading 4 text
