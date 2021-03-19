@@ -13,7 +13,7 @@ This is test information
 Still testing
 
 ### Heading H3
-Heading 3 text
+Another test
 
 #### Heading H4
 Heading 4 text
